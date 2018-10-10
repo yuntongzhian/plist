@@ -15,7 +15,7 @@
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>com.my.hengtongdriver</string>
+<string>com.hf.hengtongdriver</string>
 <key>bundle-version</key>
 <string>3.0</string>
 <key>kind</key>
